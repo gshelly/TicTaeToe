@@ -40,6 +40,7 @@
 		12D445DD247A02AC00CC0259 /* TicTacToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeTests.swift; sourceTree = "<group>"; };
 		12D445DF247A02AC00CC0259 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ABFB0FDD2772C0D0004D648E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		ABFB0FDF277A71C5004D648E /* TicTaeToe.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TicTaeToe.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 				12D445D1247A02AC00CC0259 /* LaunchScreen.storyboard */,
 				12D445D4247A02AC00CC0259 /* Info.plist */,
 				ABFB0FDD2772C0D0004D648E /* GameViewController.swift */,
+				ABFB0FDF277A71C5004D648E /* TicTaeToe.playground */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
